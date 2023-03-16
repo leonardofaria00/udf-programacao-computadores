@@ -1,0 +1,15 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Projeto utilizado na disciplina de Programação para Computadores",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leonardofaria00/udf-programacao-computadores.git"
+  },
+  "author": "Leonardo Faria",
+  "license": "MIT"
+}
