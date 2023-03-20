@@ -4,3 +4,6 @@
 $ npm -v
 
 $ node -v
+
+### Rodando script
+$ node index.js
